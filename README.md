@@ -58,10 +58,7 @@ int main() {
 
 
 
-
-
-##OUTPUT
-
+OUTPUT
 
 ![Screenshot from 2025-04-28 14-13-46](https://github.com/user-attachments/assets/5359ee21-187f-41a7-a96b-930b24777617)
 
@@ -111,8 +108,7 @@ printf("Running ps with execlp. Now with path specified\n");
 
 
 
-
-##OUTPUT
+OUTPUT
 
 
 
