@@ -125,7 +125,7 @@ OUTPUT
 #include <sys/types.h>
 #include <sys/wait.h>
 #include <unistd.h>
-
+```c
 int main() {
     int status;
     
@@ -161,7 +161,7 @@ int main() {
     return 0;
 }
 
-
+```
 
 
 
