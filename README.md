@@ -24,7 +24,7 @@ Test the C Program for the desired output.
 # PROGRAM:
 
 ## C Program to print process ID and parent Process ID using Linux API system calls
-
+```c
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -56,7 +56,7 @@ int main() {
 
 
 
-
+```
 
 OUTPUT
 
@@ -74,7 +74,7 @@ OUTPUT
 
 
 ## C Program to create new process using Linux API system calls fork() and exit()
-
+```c
 #include <stdlib.h>
 #include <sys/wait.h>
 #include <sys/types.h>
@@ -98,7 +98,7 @@ printf("Running ps with execlp. Now with path specified\n");
         printf("Done.\n");
         exit(0);}
 
-
+```
 
 
 
